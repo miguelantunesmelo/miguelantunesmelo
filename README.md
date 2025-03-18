@@ -2,11 +2,11 @@
 
 <p>No vasto universo digital, onde dados são ativos valiosos e sistemas são fundamentais, escolhi ser um defensor da segurança e da inovação. Meu objetivo é construir e proteger, criando soluções robustas e seguras para o futuro.</p>
 
-<p><strong><em>🎓 Engenharia de Software (EAD)</em></strong>, com foco em desenvolvimento e segurança.</p>
+<p><strong><em>🎓 Engenharia de Software (EAD) (1/4) </em></strong>, com foco em desenvolvimento e segurança.</p>
 
 <p>🌱 Atualmente, estou investindo meu tempo em:</p>
 <ul>
-    <li><strong><em>✔ Front-End, Java e PHP</em></strong> — desenvolvendo interfaces dinâmicas e eficientes</li>
+    <li><strong><em>✔ Front-End, aprendendo sobre back-end Java e PHP...</em></strong> — desenvolvendo interfaces dinâmicas e eficientes</li>
     <li><strong><em>✔ Segurança da Informação</em></strong> — garantindo a integridade dos sistemas e protegendo dados valiosos</li>
 </ul>
 

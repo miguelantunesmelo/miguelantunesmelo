@@ -1,14 +1,18 @@
-<h1> 💻 Desenvolvedor e Futuro Especialista em Cibersegurança </h1> 
-No vasto universo digital, onde dados são ativos valiosos e sistemas são fundamentais, escolhi ser um defensor da segurança e da inovação. Meu objetivo é construir e proteger, criando soluções robustas e seguras para o futuro.
+<h3>💻 Desenvolvedor e Futuro Especialista em Cibersegurança</h3>
 
-🎓 Engenharia de Software (EAD), com foco em desenvolvimento e segurança.
+<p>No vasto universo digital, onde dados são ativos valiosos e sistemas são fundamentais, escolhi ser um defensor da segurança e da inovação. Meu objetivo é construir e proteger, criando soluções robustas e seguras para o futuro.</p>
 
-🌱 Atualmente, estou investindo meu tempo em: <br>
-✔ Front-End, Java e PHP — desenvolvendo interfaces dinâmicas e eficientes <br>
-✔ Segurança da Informação — garantindo a integridade dos sistemas e protegendo dados valiosos <br>
+<p><strong><em>🎓 Engenharia de Software (EAD)</em></strong>, com foco em desenvolvimento e segurança.</p>
 
-🔮 Meu futuro é claro: a cibersegurança não é apenas uma profissão, é uma missão. Meu compromisso é com a construção de um ambiente digital mais seguro, eficiente e inovador.
+<p>🌱 Atualmente, estou investindo meu tempo em:</p>
+<ul>
+    <li><strong><em>✔ Front-End, Java e PHP</em></strong> — desenvolvendo interfaces dinâmicas e eficientes</li>
+    <li><strong><em>✔ Segurança da Informação</em></strong> — garantindo a integridade dos sistemas e protegendo dados valiosos</li>
+</ul>
 
-🔗 Se você busca um parceiro estratégico, com visão e comprometido com a excelência, vamos nos conectar.
+<p><strong><em>🔮 Meu futuro é claro</em></strong>: a cibersegurança não é apenas uma profissão, é uma missão. Meu compromisso é com a construção de um ambiente digital mais seguro, eficiente e inovador.</p>
 
-💬 <strong>"O maior risco não é o que enfrentamos, mas o que deixamos de proteger." </strong>
+<p>🔗 Se você busca um parceiro estratégico, com visão e comprometido com a excelência, vamos nos conectar.</p>
+
+<p><em><strong>💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."</strong></em></p>
+

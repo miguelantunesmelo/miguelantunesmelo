@@ -10,11 +10,11 @@
     <li><strong><em>✔ Segurança da Informação</em></strong> — garantindo a integridade dos sistemas e protegendo dados valiosos</li>
 </ul>
 
-<p><strong><em>🔮 Meu futuro é claro</em></strong>: a cibersegurança não é apenas uma profissão, é uma missão. Meu compromisso é com a construção de um ambiente digital mais seguro, eficiente e inovador.</p>
+<p><strong><em>🔮  O futuro é inevitável </em></strong>: a cibersegurança não é apenas uma profissão, é uma missão. Meu compromisso é com a construção de um ambiente digital mais seguro, eficiente e inovador.</p>
 
-<p>🔗 Se você busca um parceiro estratégico, com visão e comprometido com a excelência, vamos nos conectar.</p>
+<p>🔗 Se você busca um aliado para transformar a realidade digital, sem medo de questionar e reconstruir, estamos destinados a nos conectar.</p>
 
-<p><em><strong>💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."</strong></em></p>
+<p><em><strong>💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."</strong></em></p> 
 
 ##
 

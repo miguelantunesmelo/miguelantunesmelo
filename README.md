@@ -14,6 +14,14 @@
 
 <p>🔗 Se você busca um aliado para transformar a realidade digital, sem medo de questionar e reconstruir, estamos destinados a nos conectar.</p>
 
+<blockquote>
+  <p><em>"Este tem sido um de meus mantras - foco e simplicidade. O simples pode ser mais difícil do que o complexo: 
+  é preciso trabalhar duro para limpar seus pensamentos de forma a torná-los simples. Mas no final vale a pena, 
+  porque, quando chegamos lá, podemos mover montanhas." </em> – Steve Jobs</p>
+</blockquote>
+
+<p>📌 <em>Construindo o presente. Moldando o futuro.</em></p>
+
 <p><em><strong>💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."</strong></em></p> 
 
 ##

@@ -11,4 +11,4 @@ No vasto universo digital, onde dados são ativos valiosos e sistemas são funda
 
 🔗 Se você busca um parceiro estratégico, com visão e comprometido com a excelência, vamos nos conectar.
 
-💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."
+💬 <strong>"O maior risco não é o que enfrentamos, mas o que deixamos de proteger." </strong>

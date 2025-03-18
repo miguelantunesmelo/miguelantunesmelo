@@ -1,16 +1,24 @@
-<h3>💻 Desenvolvedor e Futuro Especialista em Cibersegurança</h3>
 
-<p>No vasto universo digital, onde dados são ativos valiosos e sistemas são fundamentais, escolhi ser um defensor da segurança e da inovação. Meu objetivo é construir e proteger, criando soluções robustas e seguras para o futuro.</p>
+<h1>🚀 Desenvolvedor em Construção | Futuro Full Stack</h1>
 
-<p><strong><em>🎓 Engenharia de Software (EAD) (1/4) </em></strong>, com foco em desenvolvimento e segurança.</p>
+<p> Apaixonado por tecnologia e sempre em busca de elevar minhas habilidades. Atualmente, foco no <strong>Front-End</strong>, aprimorando o <strong>Back-End</strong> para me tornar um <strong>Full Stack Developer</strong> completo. </p>
 
-<p>🌱 Atualmente, estou investindo meu tempo em:</p>
+<h2>🎓 Engenharia de Software (1/4)</h2>  
+<p>Unindo teoria e prática para criar soluções escaláveis e eficientes.</p>
+
+<h2>🛠 Tech Stack em Evolução:</h2>
 <ul>
-    <li><strong><em>✔ Front-End, aprendendo sobre back-end Java e PHP...</em></strong> — desenvolvendo interfaces dinâmicas e eficientes</li>
-    <li><strong><em>✔ Segurança da Informação</em></strong> — garantindo a integridade dos sistemas e protegendo dados valiosos</li>
+  <li>🌐 <strong>Front-End:</strong> HTML, CSS, JavaScript, React</li>
+  <li>⚙️ <strong>Back-End:</strong> PHP, Java (em constante evolução)</li>
 </ul>
 
-<p><strong><em>🔮  O futuro é inevitável </em></strong>: a cibersegurança não é apenas uma profissão, é uma missão. Meu compromisso é com a construção de um ambiente digital mais seguro, eficiente e inovador.</p>
+<h2>💡 Mindset:</h2>
+<p>Pensamento estratégico, persuasivo e orientado a soluções. Acredito que código de qualidade não apenas resolve problemas, mas <strong>gera impacto real</strong>.</p>
+
+<p>📌 <em>Construindo o presente. Moldando o futuro.</em></p>
+```
+
+Isso deixará sua bio bem estruturada e estilizada no GitHub. Se precisar de ajustes, me avise! 🚀
 
 <p>🔗 Se você busca um aliado para transformar a realidade digital, sem medo de questionar e reconstruir, estamos destinados a nos conectar.</p>
 

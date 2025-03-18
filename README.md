@@ -12,14 +12,6 @@
   <li>⚙️ <strong>Back-End:</strong> PHP, Java (em constante evolução)</li>
 </ul>
 
-<h2>💡 Mindset:</h2>
-<p>Pensamento estratégico, persuasivo e orientado a soluções. Acredito que código de qualidade não apenas resolve problemas, mas <strong>gera impacto real</strong>.</p>
-
-<p>📌 <em>Construindo o presente. Moldando o futuro.</em></p>
-```
-
-Isso deixará sua bio bem estruturada e estilizada no GitHub. Se precisar de ajustes, me avise! 🚀
-
 <p>🔗 Se você busca um aliado para transformar a realidade digital, sem medo de questionar e reconstruir, estamos destinados a nos conectar.</p>
 
 <p><em><strong>💬 "O maior risco não é o que enfrentamos, mas o que deixamos de proteger."</strong></em></p> 
